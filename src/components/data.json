@@ -1,0 +1,123 @@
+{
+  "offers": [
+    {
+      "id": 0,
+      "image": "https://images.moneycontrol.com/static-mcnews/2020/10/flipkart-big-billion-days-amazozn-great-indian-festival-.jpg",
+      "label": "First slide label",
+      "desc": "Nulla vitae elit libero, a pharetra augue mollis interdum."
+    },
+    {
+      "id": 1,
+      "image": "https://5.imimg.com/data5/OO/FV/MY-7390530/banner-2-500x500.jpg",
+      "label": "Second slide label",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "image": "https://buysellgraphic.com/images/graphic_preview/thumb/ecommerce_website_banner_template_shoppers_sketch_55245.jpg",
+      "label": "Third slide label",
+      "desc": "Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+    }
+  ],
+
+  "products": [
+    {
+      "id": 0,
+      "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/f55bf732-7fa9-4b38-8464-3332d97f879a/nike%E2%80%99s-best-casual-shoes-for-everyday-wear.jpg",
+      "label": "Stylish Nike",
+      "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+      "price": 8755,
+      "final_price": 8755
+    },
+    {
+      "id": 1,
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/210322115646-nike-shoes-0922-file-super-tease.jpg",
+      "label": "Nike Brand New Shoe",
+      "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+      "price": 1599,
+      "final_price": 1599
+    },
+    {
+      "id": 2,
+      "image": "https://frontofficesports.com/wp-content/uploads/2021/11/FOS-11.2-Nike-Virtual-1.jpg",
+      "label": "Nike Brand New Shoe",
+      "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+      "price": 999,
+      "final_price": 999
+    },
+    {
+      "id": 3,
+      "image": "https://static.nike.com/a/images/w_1920,c_limit/02bafd1f-cb35-493a-b663-58911821752a/the-best-nike-shoes-for-weightlifting.jpg",
+      "label": "Gym New Brand Nike Shoe",
+      "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+      "price": 2600,
+      "final_price": 2600
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/210322115646-nike-shoes-0922-file-super-tease.jpg",
+      "label": "Nike Brand New Shoe",
+      "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+      "price": 2500,
+      "final_price": 2500
+    },
+    {
+      "id": 5,
+      "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/e6424c44-7b50-4acb-8c40-aa9712c29924/nike%E2%80%99s-best-casual-shoes-for-everyday-wear.jpg",
+      "label": "Nike Brand New Shoe",
+      "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+      "original": 2000,
+      "price": 2000,
+      "final_price": 1000
+    },
+    {
+        "id": 6,
+        "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/f55bf732-7fa9-4b38-8464-3332d97f879a/nike%E2%80%99s-best-casual-shoes-for-everyday-wear.jpg",
+        "label": "Stylish Nike",
+        "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+        "price": 8755,
+        "final_price": 8755
+      },
+      {
+        "id": 7,
+        "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/f55bf732-7fa9-4b38-8464-3332d97f879a/nike%E2%80%99s-best-casual-shoes-for-everyday-wear.jpg",
+        "label": "Nike Brand New Shoe",
+        "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+        "price": 1599,
+        "final_price": 1599
+      },
+      {
+        "id": 8,
+        "image": "https://static.nike.com/a/images/w_1920,c_limit/02bafd1f-cb35-493a-b663-58911821752a/the-best-nike-shoes-for-weightlifting.jpg",
+        "label": "Nike Brand New Shoe",
+        "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+        "price": 999,
+        "final_price": 999
+      },
+      {
+        "id": 9,
+        "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/f55bf732-7fa9-4b38-8464-3332d97f879a/nike%E2%80%99s-best-casual-shoes-for-everyday-wear.jpg",
+        "label": "Nike Brand New Shoe",
+        "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+        "price": 2600,
+        "final_price": 2600
+      },
+      {
+        "id": 10,
+        "image": "https://static.nike.com/a/images/w_1920,c_limit/02bafd1f-cb35-493a-b663-58911821752a/the-best-nike-shoes-for-weightlifting.jpg",
+        "label": "Nike Brand New Shoe",
+        "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+        "price": 2500,
+        "final_price": 2500
+      },
+      {
+        "id": 11,
+        "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/f55bf732-7fa9-4b38-8464-3332d97f879a/nike%E2%80%99s-best-casual-shoes-for-everyday-wear.jpg",
+        "label": "Nike Brand New Shoe",
+        "desc": "Nike brand new shoe comes with elegant design and beautiful look and makes comfortable for any kind of sport.",
+        "original": 2000,
+        "price": 2000,
+        "final_price": 1500
+      }
+  ]
+}
